@@ -1,5 +1,5 @@
 import asyncio
-import uvloop
+import uvloop # type: ignore
 from dotenv import load_dotenv
 load_dotenv()
 
